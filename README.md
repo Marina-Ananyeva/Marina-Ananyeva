@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋 My name is Marina. I`m a C++ developer student.
 
-<!--
-**Marina-Ananyeva/Marina-Ananyeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning in Yandex Practicum to be a C++ developer.
 
-Here are some ideas to get you started:
+I’m gonna to look for interesting work in FinTech or in team of self-driving cars (it`s my dream).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ About me:
+
+I like programming. I like math, logic tasks. I know algorithms and data structures, OOP, multithreading, heredity and polymorphism.
+
+I choose the C++ language because of its complexity and almost limitless possibilities of application.
+
+Before C++, I learned the C language myself. I started studying C++ from S. Lippman`s book, then I came to the Yandex Practicum course.
+
+I like to read, especially autobiographies.
+
+📫 How to reach me: mvtravell@mail.ru or @marina_bondarenko_22 (in Telegram)
