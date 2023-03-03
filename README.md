@@ -1,8 +1,8 @@
-Hi 👋 My name is Marina. I`m a C++ developer student.
+Hi 👋 My name is Marina. I`m a C++ developer.
 
-🌱 I’m currently learning in Yandex Practicum to be a C++ developer.
+🌱 I just finished the course of Yandex Practicum "C++ developer".
 
-I’m gonna to look for interesting work in FinTech or in team of self-driving cars (it`s my dream).
+I’m gonna to look for interesting work in high-tech industries. For example, in team of self-driving cars (it`s my dream).
 
 ⚡ About me:
 
