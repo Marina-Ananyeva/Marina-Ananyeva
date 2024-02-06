@@ -1,16 +1,17 @@
 Hi 👋 My name is Marina. I`m a C++ developer.
 
-🌱 I just finished the course of Yandex Practicum "C++ developer".
+🌱 I have been programming in C++ since 2020.
 
-I’m gonna to look for interesting work in high-tech industries. For example, in team of self-driving cars (it`s my dream).
+I work for a high-tech company. My dream is to develop self-driving cars. I am interested in the Sensor Fusion specialization.
+I am currently studying at the UDACITY Self-Driving Car Engineer program.
 
 ⚡ About me:
 
-I like programming. I like math, logic tasks. I know algorithms and data structures, OOP, multithreading, heredity and polymorphism.
+I like programming. I like math, logic tasks. I know algorithms and data structures, OOP, multithreading, unit testing, network protocols (TCP/IP, HTTP, websocket).
 
 I choose the C++ language because of its complexity and almost limitless possibilities of application.
 
-Before C++, I learned the C language myself. I started studying C++ from S. Lippman`s book, then I came to the Yandex Practicum course.
+My stack: C++17, C, Qt, Boost, SQL, Visual Studio Code, Git, CMake, PostgreSQL, pgAdmin, DBeaver, Protobuf.
 
 I like to read, especially autobiographies.
 
