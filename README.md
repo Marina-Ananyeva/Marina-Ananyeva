@@ -15,4 +15,4 @@ My stack: C++17, C, Qt, Boost, SQL, Visual Studio Code, Git, CMake, PostgreSQL, 
 
 I like to read, especially autobiographies.
 
-📫 How to reach me: mvtravell@mail.ru or @marina_bondarenko_22 (in Telegram)
+📫 How to reach me: mvtravell@mail.ru
